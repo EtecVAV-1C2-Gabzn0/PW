@@ -1,0 +1,40 @@
+body{
+    background-color: whitesmoke;
+    text-decoration: none;
+}
+.hero-section 
+{
+    background: #283a3a;
+    color: white;
+    padding: 200px 0;
+}
+#contato
+{
+    display: flex;
+    flex-direction: column;
+}
+.row{
+    margin-top: 3px;
+}
+
+.sorvete{
+    display: flex;
+}
+
+.ice-cream-image {
+            max-width: 100%;
+            height: auto;
+            border-radius: 0.5rem;
+}
+.card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.toppings-area .form-group {
+    margin-bottom: 1rem;
+}
+.form-label {
+    font-weight: bold;
+}
+
